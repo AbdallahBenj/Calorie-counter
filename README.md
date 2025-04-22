@@ -27,6 +27,6 @@ To try the calorie counter:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Calorie-counter/)
 
 ## Let’s continue building healthy habits and solid coding skills! 🥗💻
