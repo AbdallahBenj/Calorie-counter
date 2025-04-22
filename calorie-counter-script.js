@@ -1,3 +1,5 @@
+/* Calorie Counter */
+
 console.log("Calorie Counter");
 
 const calorieCounter = document.getElementById("calorie-counter");
